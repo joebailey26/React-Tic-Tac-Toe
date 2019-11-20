@@ -1,4 +1,10 @@
+## Notes
+
 The following tutorial was used [Intro to React](https://reactjs.org/tutorial/tutorial.html)
+
+[CodePen here](https://codepen.io/joebailey26/pen/poogwjN)
+
+## Auto Generated
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
